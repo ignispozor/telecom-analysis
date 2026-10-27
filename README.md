@@ -20,3 +20,6 @@ Los archivos utilizados para el análisis son los datasets:
 - Visualización de distribuciones y outliers
 - Segmentación de clientes
 - Insight ejecutivo para stakeholders
+
+## Ejecución del notebook
+Abrir desde Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ignispozor/telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
