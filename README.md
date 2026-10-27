@@ -26,3 +26,6 @@ Abrir desde Colab: [![Open In Colab](https://colab.research.google.com/assets/co
 
 ## Reproducción
 
+- Abrir archivo desde la sección readme con el botón de Open in Colab o desde el notebook también con el acceso a Colab
+- Ejecutar la primera celda para clonar el repositorio y que colab pueda acceder de manera automática a los archivos CSVs clonados y cargados en la carpeta designada por colab, por ejemplo: '/content/telecom-analysis/data/plans.csv'
+- Ejecutar todas las celdas normalmente del notebook luego de clonar el repositorio.
