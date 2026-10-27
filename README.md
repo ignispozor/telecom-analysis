@@ -23,3 +23,6 @@ Los archivos utilizados para el análisis son los datasets:
 
 ## Ejecución del notebook
 Abrir desde Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ignispozor/telecom-analysis/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
+
+## Reproducción
+
